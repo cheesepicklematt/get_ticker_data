@@ -12,10 +12,6 @@ This Python script fetches financial data from Yahoo Finance for a given ticker 
 
 2. **Navigate to the project directory:**
 
-    ```bash
-    cd yahoo-finance-data-fetcher
-    ```
-
 ## Requirements
 
 Make sure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
